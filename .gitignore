@@ -1,0 +1,6 @@
+*.pyc
+__pycache__/
+*.jpg
+attendance.db
+enc.pkl
+
